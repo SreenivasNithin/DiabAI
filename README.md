@@ -1,6 +1,6 @@
 # DiabAI: Machine Learning-Based Diabetes Detection System
 
-### Collaborator : VARSHITH https://github.com/varshith999
+### Collaborator : G SAI VARSHITH https://github.com/varshith999
                    
 ## Description:
 
